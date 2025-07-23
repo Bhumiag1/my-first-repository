@@ -1,1 +1,2 @@
-# my-first-repository
+# A BLACKJACK GAME
+My first project in python
